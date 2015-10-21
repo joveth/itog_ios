@@ -1,0 +1,52 @@
+PODS:
+  - ChameleonFramework (2.0.4):
+    - ChameleonFramework/Default (= 2.0.4)
+  - ChameleonFramework/Default (2.0.4)
+  - CocoaLumberjack (1.9.2):
+    - CocoaLumberjack/Extensions (= 1.9.2)
+  - CocoaLumberjack/Core (1.9.2)
+  - CocoaLumberjack/Extensions (1.9.2):
+    - CocoaLumberjack/Core
+  - CSSSelectorConverter (1.2.1):
+    - CocoaLumberjack (~> 1.9.0)
+    - NUIParse
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - IAPHelper (1.0.7)
+  - ICViewPager (1.5.1)
+  - IGHTMLQuery (0.8.4):
+    - IGHTMLQuery/Core (= 0.8.4)
+  - IGHTMLQuery/Core (0.8.4):
+    - CSSSelectorConverter (>= 1.2.0)
+  - MBProgressHUD (0.9.1)
+  - MJRefresh (2.4.12)
+  - NUIParse (1.2.1)
+  - skpsmtpmessage (0.0.1)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - FMDB
+  - IAPHelper
+  - ICViewPager
+  - IGHTMLQuery (~> 0.8.4)
+  - MBProgressHUD (~> 0.9.1)
+  - MJRefresh
+  - skpsmtpmessage
+
+SPEC CHECKSUMS:
+  ChameleonFramework: 5abe69b1f2a6cc79c3c435fcd9d3d855748225ee
+  CocoaLumberjack: 628fca2e88ef06f7cf6817309aa405f325d9a6fa
+  CSSSelectorConverter: 0fda7454165e40e668dd297b44cdb1c341cd53ae
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  IAPHelper: 60a2d5b6ef2d121ce041cf942cd6fc87dc3ab3a3
+  ICViewPager: 032dc71a50fe898e185fae6112ded4bed0e0523c
+  IGHTMLQuery: 6176bcb88ad36f80ee984dbfde5592bb3ccc921f
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  NUIParse: 9b6d5a6b782dc654ac6c846d623885080306f07f
+  skpsmtpmessage: f6e913380c784dd8d4a9f83c8790a302445a5e05
+
+COCOAPODS: 0.38.2
